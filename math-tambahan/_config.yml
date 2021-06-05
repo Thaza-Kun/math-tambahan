@@ -6,9 +6,7 @@
 #######################################################################################
 # Book settings
 title                       : Matematik Tambahan  # The title of the book. Will be placed in the left navbar.
-author                      : 
-  - Murthadza Aznam  # The author of the book
-  - Chiam Joe Win
+author                      : Chiam Joe Win & Murthadza Aznam  # The author of the book
 copyright                   : "2021"  # Copyright year to be placed in the footer
 logo                        : logo.png  # A path to the book logo
 
