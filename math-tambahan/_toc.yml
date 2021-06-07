@@ -1,8 +1,26 @@
 # Table of content
 # Learn more at https://jupyterbook.org/customize/toc.html
 #
-- file: intro
-- file: content
-  sections:
-    - file: markdown
-    - file: notebooks
+format: jb-book
+root: index
+parts:
+  - caption: ALGEBRA
+    chapters:
+    - file: algebra/contoh
+      title: Contoh
+  - caption: GEOMETRI
+    chapters:
+    - file: geometri/contoh
+      title: Contoh
+  - caption: KALKULUS
+    chapters:
+    - file: kalkulus/contoh
+      title: Contoh
+  - caption: TRIGONOMETRI
+    chapters:
+    - file: trigonometri/contoh
+      title: Contoh
+  - caption: STATISTIK
+    chapters:
+    - file: statistik/contoh
+      title: Contoh
