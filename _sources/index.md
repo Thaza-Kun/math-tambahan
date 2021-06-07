@@ -1,16 +1,6 @@
-# Welcome to your Jupyter Book
+# Matematik Tambahan
+Oleh: Chiam Joe Win & Murthadza Aznam
 
-This is a small sample book to give you a feel for how book content is
-structured.
-
-:::{note}
-Here is a note!
-:::
-
-And here is a code block:
-
-```{math}
-e = mc^2
+```{important}
+Buku ini masih sedang ditulis. Kandungannya belum muktamad.
 ```
-
-Check out the content pages bundled with this sample book to see more.
