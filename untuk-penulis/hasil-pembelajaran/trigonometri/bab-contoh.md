@@ -2,9 +2,12 @@
 
 Di sini ialah senarai apa yang kita mahukan pembaca belajar dalam bab ini. Ia mungkin akan berbeza sedikit daripada hasil pembelajaran KPM, tetapi kita akan jadikannya sebagai teras.
 
-\[Thaza\]: Mungkin dalam bahagian trigonometri ini selain gunakan pembuktian beralgebra, kita boleh cuba tunjukkan juga pembuktian bergeometri.
+\[Thaza\]: 
+1. Mungkin dalam bahagian trigonometri ini selain gunakan pembuktian beralgebra, kita boleh cuba tunjukkan juga pembuktian bergeometri.
+2. Bab ini mengandaikan pelajar sudah faham apa itu fungsi sinus, kosinus dan tangen. Mungkin ia sudah diajar dalam peringkat menengah rendah. Kita boleh masukkan di sini.
+3. Tajuk ini ada banyak identiti. Mungkin boleh munculkan pembuktian bagi setiap satu.
 
-1. Fungsi Trigonometri (T5)
+4. Fungsi Trigonometri (T5)
    1. Sudut Positif dan Sudut Negatif
       1. Murid boleh mewakilkan sudut positif dan sudut negatif dalam satah Cartes.
    2. Nisbah Trigonometri bagi Sebarang Sudut
@@ -30,7 +33,7 @@ Di sini ialah senarai apa yang kita mahukan pembaca belajar dalam bab ini. Ia mu
    6. Aplikasi Fungsi Trigonometri
       1. Murid boleh menyelesaikan persamaan trigonometri.
       2. Murid boleh menyelesaikan masalah yang melibatkan fungsi trigonometri.
-2. Penyelesaian Segi Tiga (T4) (Elektif)
+5. Penyelesaian Segi Tiga (T4) (Elektif)
    1. Petua Sinus
       1. Murid boleh membuat dan mengesahkan konjektur tentang **hubungan antara nisbah panjang sisi-sisi suatu segi tiga dengan sinus sudut-sudut yang bertentangan**, dan seterusnya mentakrifkan petua sinus.
       2. Murid boleh **menyelesaikan segi tiga** yang melibatkan petua sinus.
@@ -47,14 +50,3 @@ Di sini ialah senarai apa yang kita mahukan pembaca belajar dalam bab ini. Ia mu
       3. Murid boleh menyelesaikan masalah yang melibatkan luas segi tiga.
    4. Aplikasi Petua Sinus, Petua Kosinus dan Luas Segi Tiga
       1. Murid boleh menyelesaiakan masalah yang melibatkan segi tiga.
-
----
-# Kata Kunci
-- sudut tirus
-- sudut cakah
-- petua sinus
-- petua kosinus
-- kes berambiguiti
-- sudut kandung
-- sudut bukan kandung
-- tiga matra
