@@ -4,7 +4,7 @@ Di sini ialah senarai apa yang kita mahukan pembaca belajar dalam bab ini. Ia mu
 
 ## Geometri Koordinat
 1. Pembahagi Tembereng Garis.
-    1. Murid boleh **membuat perkaitan antara kedudukan titik yang membahagik an sesuatu tembereng garis dengan nisbah yang berkaitan**.
+    1. Murid boleh **membuat perkaitan antara kedudukan titik yang membahagikan sesuatu tembereng garis dengan nisbah yang berkaitan**.
     2. Murid boleh **menerbitkan rumus pembahagi tembereng garis** pada satah Cartes dan seterusnya menggunakan rumus tersebut dalam pelbagai situasi.
     3. Murid boleh menyelesaikan masalah yang melibatkan pembahagi tembereng garis.
 2. Garis Lurus Selari dan Garis Lurus Serenjang.
