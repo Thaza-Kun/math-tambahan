@@ -6,8 +6,10 @@ root: index
 parts:
   - caption: ALGEBRA
     chapters:
-    - file: algebra/contoh
-      title: Contoh
+    - file: algebra/fungsi
+      title: Fungsi
+    - file: algebra/fungsi-kuadratik
+      title: Fungsi Kuadratik
   - caption: GEOMETRI
     chapters:
     - file: geometri/contoh
