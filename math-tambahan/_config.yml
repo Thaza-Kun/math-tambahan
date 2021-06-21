@@ -35,3 +35,13 @@ repository:
 html:
   use_issues_button: false
   use_repository_button: true
+
+sphinx:
+  config:
+    mathjax_path: https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+    mathjax_config:
+      loader:
+        load: ['[tex]/physics']
+      tex:
+        packages:
+          '[+]': ['physics']
