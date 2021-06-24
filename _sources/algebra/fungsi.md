@@ -12,5 +12,7 @@ Menggunakan analogi mesin di atas, katakan mesin kita yang bernama $f$ akan meng
 
 Katakan $f$ kita ini juga dapat mengeluarkan $4$ apabila diberi $2$, dan $5$ apabila diberi $3$; ataupun dalam notasi matematik, $f:2 \to 4$ dan $f:3 \to 5$. Kita dapat memerihalkan hubungan ketiga-tiga ini dengan menggunakan konsep **set**. 
 
-Kita akan mengumpulkan nombor-nombor yang dimasukkan ke dalam $f$ dalam satu set, $x = \{1,2,3\}$. Nombor-nombor yang dikeluarkan oleh $f$ pula dikumpulkan dalam satu lagi set, $y = \{3,4,5\}$. Dengan ini, kita dapat merumuskan ketiga-tiga hubungan dalam satu ungkapan, $f:x \to y$
+Kita akan mengumpulkan nombor-nombor yang dimasukkan ke dalam $f$ dalam satu set, $X = \{1,2,3\}$. Nombor-nombor yang dikeluarkan oleh $f$ pula dikumpulkan dalam satu lagi set, $Y = \{3,4,5\}$. Dengan ini, kita dapat merumuskan ketiga-tiga hubungan dalam satu ungkapan, $f:X \to Y$
+
+Set nombor-nombor yang dimasukkan ke dalam suatu fungsi dipanggil **domain**, dan unsur-unsurnya dipanggil **objek**. Sebaliknya, set nombor-nombor yang dikeluarkan oleh suatu fungsi dipanggil **kodomain**, dan unsur-unsurnya dipanggil **imej**.
 
