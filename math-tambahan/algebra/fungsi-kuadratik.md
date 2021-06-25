@@ -20,4 +20,5 @@ Persamaan kuadratik boleh diselesaikan menggunakan tiga kaedah. Tiga kaedah ters
 1. Rumus kuadratik
 2. Penyempurnaan kuasa dua
 3. Pemfaktoran
+
 Buku ini akan menerangkan ketiga-tiga kaedah ini.

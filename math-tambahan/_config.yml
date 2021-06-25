@@ -45,3 +45,5 @@ sphinx:
       tex:
         packages:
           '[+]': ['physics']
+  extra_extensions: 
+    - "sphinx_proof"
