@@ -1,17 +1,23 @@
 # Persamaan dan Ketaksamaan Kuadratik
 
-Pertimbangkan dua persamaan di bawah:
-1. $4x-5=20,$
-2. $2x^2+2=10.$
-
-Kedua-kedua persamaan ini mudah diselesaikan dengan menyongsangkan operasi semata-mata. Kita dapati $x=5$ untuk persamaan pertama dan $x=2$ untuk persamaan kedua.
-
-Sekarang, pertimbangkan persamaan $2x^2-5x=25$. Kini, kaedah penyongsangan mudah yang digunakan sebelum ini tidak memadai untuk mencari nilai $x$. Berbeza dengan dua persamaan sebelum ini yang sama ada mempunyai anu $x$ atau anu $x^2$ sahaja, persamaan ini mempunyai kedua-dua $x$ dan $x^2$ dalam satu persamaan yang sama. Untuk menyelesaikan persamaan berbentuk sebegini, kita perlukan kaedah yang baharu.
-
 ## Persamaan Kuadratik
-Persamaan yang diperkenalkan sebentar tadi adalah persamaan kuadratik. Secara amnya, sebuah persamaan kuadratik ditulis begini:
+Persamaan kuadaratik ialah mana-mana persamaan yang mempunyai anu berkuasa dua sebagai kuasa tertingginya. Persamaan kuadratik ada beberapa bentuk lain yang akan dibincangkan dalam buku ini tetapi semua bentuk itu boleh diungkapkan semula menjadi satu bentuk am.
+
+````{admonition} Bentuk Am Persamaan Kuadratik
 ```{math}
 :label: algebra_kuadratik_am
 ax^2 + bx + c = 0,
 ```
-dengan keadaan bahawa $a$, $b$, dan $c$ adalah suatu pemalar dan $x$ adalah suatu pemboleh ubah serta syarat bahawa $a\neq 0$.
+dengan keadaan bahawa $a$, $b$, dan $c$ adalah pemalar, $x$ adalah anu, serta syarat bahawa $a\neq0$.
+````
+
+```{margin}
+Istilah *kuadratik* berakar daripada imbuhan Latin *quadra-* yang bermaksud "empat".
+```
+Persamaan kuadratik boleh dilihat sebagai ungkapan keluasan suatu segi empat yang sebahagian sisinya tidak diketahui. Malah, dalam sejarah matematik pun, permasalahan persamaan kuadaratik dipertimbangkan sebagai permasalahan mencari bahagian sisi yang tidak diketahui dalam segi empat yang diketahui luasnya. Dari pertimbangan inilah, persamaan ini mendapat nama *kuadratik* walaupun anunya berkuasa dua.
+
+Persamaan kuadratik boleh diselesaikan menggunakan tiga kaedah. Tiga kaedah tersebut ialah:
+1. Rumus kuadratik
+2. Penyempurnaan kuasa dua
+3. Pemfaktoran
+Buku ini akan menerangkan ketiga-tiga kaedah ini.
