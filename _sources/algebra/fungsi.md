@@ -3,10 +3,10 @@
 ## Apakah fungsi?
 Bayangkan satu mesin. Apabila kita memasukkan satu nombor ke dalam mesin ini, mesin ini akan mengeluarkan satu dan hanya satu nombor. Inilah **fungsi**, sesuatu mesin yang mengeluarkan **satu dan hanya satu** nombor apabila diberi satu nombor.   
 
-```{admonition} Definisi yang lebih formal
-:class: note
+```{prf:definition} Definisi yang lebih formal
 Fungsi ialah hubungan antara dua set di mana semua unsur-unsur dalam set pertama **dipetakan** kepada satu dan hanya satu unsur dalam set kedua.
 ```
+
 
 Menggunakan analogi mesin di atas, katakan mesin kita yang bernama $f$ akan mengeluarkan $3$ apabila $1$ dimasukkan; kita boleh kata $f$ **memetakan** $1$ kepada $3$. Ayat ini dalam notasi matematik ialah $f:1 \to 3$
 
