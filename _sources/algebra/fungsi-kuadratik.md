@@ -32,7 +32,7 @@ Kaedah yang paling mudah untuk menyelesaikan persamaan kuadratik ialah dengan me
 
 ````{margin}
 ```{admonition} Punca
-:class: hint
+:class: important
 
 Punca bagi suatu persamaan kuadratik ialah penyelesaian kepada nilai $x$. Ia menjawab persoalan "Apakah nilai $x$ yang mengiyakan persamaan kuadratik ini?"
 ```
