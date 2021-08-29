@@ -69,6 +69,6 @@ Dengan itu, kita boleh simpulkan bahawa setiap persaman kuadratik boleh dibahagi
 2. Yang mempunyai satu punca.
 3. Yang tidak mempunyai punca nyata.
 
-## Penyempurnaan Kuasa Dua
+### Penyempurnaan Kuasa Dua
 
-## Pemfaktoran Persamaan Kuadratik
+### Pemfaktoran Persamaan Kuadratik
