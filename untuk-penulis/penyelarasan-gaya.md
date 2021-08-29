@@ -14,7 +14,7 @@ Dokumen ini ditulis untuk menyelaraskan gaya penulisan buku ini.
 Katalah ada istilah `istilah` pertama kali digunakan dalam teks, maka kita perkenalkan maksudnya dalam margin:
 ````{margin}
 ```{admonition} Istilah
-:class: hint
+:class: important
 
 Maksud istilah tersebut dijelaskan di sini.
 ```
