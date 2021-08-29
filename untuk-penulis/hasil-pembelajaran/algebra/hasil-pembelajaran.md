@@ -19,17 +19,17 @@ Di sini ialah senarai apa yang kita mahukan pembaca belajar dalam bab ini. Ia mu
     3. Murid boleh **menentukan fungsi songsang**.
 
 ## Fungsi Kuadratik
-1. Persamaan dan Ketaksamaan Kuadratik.
+1. Persamaan Kuadratik Serta Fungsinya.
     1. Murid boleh menyelesaikan persamaan kuadratik menggunakan **kaedah penyempurnaan kuasa dua dan rumus**.
-    2. Murid boleh **membentuk persamaan kuadratik daripada punca-punca** yang diberi.
-    3. Murid boleh **menyelesaikan ketaksamaan kuadratik**.
-2. Fungsi Kuadratik.
-    1. Murid boleh **menganalisis dan membuat generalisasi tentang kesan perubahan $a$, $b$ dan $c$ dalam $f(x) = ax^2 + bx + c$ terhadap bentuk dan kedudukan graf**.
-    2. Murid boleh **menghubungkaitkan kedudukan graf fungsi kuadratik dengan jenis punca**.
-    3. Murid boleh **membuat perkaitan antara bentuk verteks fungsi kuadratik, $f(x) = a(x - h)^2 + k$ dengan bentuk fungsi kuadratik lain**.
-    4. Murid boleh menganalisis dan membuat generalisasi tentang **kesan perubahan $a$, $h$ dan $k$ dalam fungsi kuadratik $f(x) = a(x - h)^2 + k$ terhadap bentuk dan kedudukan graf**. 
-    5. Murid boleh **melakar graf fungsi kuadratik**.
-    6. Murid boleh menyelesaikan masalah yang melibatkan fungsi kuadratik.
+    2. Murid boleh **melakar graf fungsi kuadratik**.
+    3. Murid boleh **menghubungkaitkan kedudukan graf fungsi kuadratik dengan jenis punca**.
+    4. Murid boleh **menganalisis dan membuat generalisasi tentang kesan perubahan $a$, $b$ dan $c$ dalam $f(x) = ax^2 + bx + c$ terhadap bentuk dan kedudukan graf**.
+    5. Murid boleh **menyelesaikan ketaksamaan kuadratik**.
+2. Bentuk Lain Fungsi Kuadratik.
+    1. Murid boleh **membentuk persamaan kuadratik daripada punca-punca** yang diberi.
+    2. Murid boleh **membuat perkaitan antara bentuk verteks fungsi kuadratik, $f(x) = a(x - h)^2 + k$ dengan bentuk fungsi kuadratik lain**.
+    3. Murid boleh menganalisis dan membuat generalisasi tentang **kesan perubahan $a$, $h$ dan $k$ dalam fungsi kuadratik $f(x) = a(x - h)^2 + k$ terhadap bentuk dan kedudukan graf**. 
+    4. Murid boleh menyelesaikan masalah yang melibatkan fungsi kuadratik.
 
 ## Sistem Persamaan
 1. Sistem Persamaan Linear dalam Tiga Pemboleh Ubah.
