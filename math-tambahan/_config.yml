@@ -35,6 +35,11 @@ repository:
 html:
   use_issues_button: false
   use_repository_button: true
+  extra_footer: |
+    <script data-host="https://microanalytics.io" data-dnt="false" src="https://microanalytics.io/js/script.js" id="ZwSg9rf6GA" async defer></script>
+  # <div>
+  #   Extra Footer
+  # </div>
 
 sphinx:
   config:
